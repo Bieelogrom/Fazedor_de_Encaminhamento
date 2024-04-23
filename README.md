@@ -1,3 +1,11 @@
-Desenvolvido por Gabriel Ferreira Amorim.
+Automatização de preenchimento de fichas de encaminhamento com formulário PHP.
 
-2024 
+## Desenvolvedor - Gabriel Ferreira Amorim
+
+Requisitos para rodar o projeto:
+1. PHP
+2. Composer
+
+Como rodar o projeto na minha máquina?
+1. Baixar zip do repositório e extrair em algum lugar do seu computador;
+2. Abrir cmd na pasta do projeto e rodar o comando "composer install";
